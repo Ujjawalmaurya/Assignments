@@ -1,4 +1,4 @@
-# All HTML and CSS Projects
+# HTML and CSS Projects
 
 ## Project - 1 [Street Style Landing Page](https://ujjawalmaurya.github.io/Street-Style-Landing-Page)
 
@@ -29,3 +29,24 @@
 ## Project - 14 [Creativity Webpage](https://ujjawalmaurya.github.io/SAAS-Website)
 
 ## Project - 15 [Designer Website](https://ujjawalmaurya.github.io/Designer-website)
+
+<br>
+
+---
+
+<br>
+<br>
+
+# Tailwind Projects
+
+## Paytm Clone
+
+### Challenge 1 = [Paytm Clone - fixed](https://ujjawalmaurya.github.io/Paytm-clone)
+
+## Rode Clone
+
+### Challenge 2 = [Rode Clone](https://ujjawalmaurya.github.io/Rode-clone/)
+
+## Shopify Clone
+
+### Challenge 3 = [Shopify Clone](https://ujjawalmaurya.github.io/Shopify-Clone)
