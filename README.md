@@ -92,6 +92,8 @@
 <h1>🔵 JavaScript Assignments ⬇️</h1>
 </div>
 
+## ➡️ [JavaScript Assignments Repo](https://github.com/Ujjawalmaurya/JSAssignments)
+
 <br>
 
 ---
@@ -101,6 +103,8 @@
 <div align = "center">
 <h1>🔵 DOM Assignments ⬇️</h1>
 </div>
+
+## ➡️ [DOM Assignments Repo](https://github.com/Ujjawalmaurya/DOMAssignments)
 
 <br>
 
@@ -123,3 +127,5 @@
 <div align = "center">
 <h1>🔵 Full Stack Projects ⬇️</h1>
 </div>
+
+## ➡️ [Full Stack ToDoApp Repo](https://github.com/Ujjawalmaurya/FullStackToDo)
