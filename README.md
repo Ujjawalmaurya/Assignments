@@ -89,5 +89,37 @@
 <br>
 
 <div align = "center">
-<h1>🔵 __ ⬇️</h1>
+<h1>🔵 JavaScript Assignments ⬇️</h1>
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align = "center">
+<h1>🔵 DOM Assignments ⬇️</h1>
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align = "center">
+<h1>🔵 React Projects ⬇️</h1>
+</div>
+
+## Project-1 ➡️ [DrumKit (Begginers)](https://github.com/Ujjawalmaurya/DrumKitProject)
+
+<br>
+
+---
+
+<br>
+
+<div align = "center">
+<h1>🔵 Full Stack Projects ⬇️</h1>
 </div>
